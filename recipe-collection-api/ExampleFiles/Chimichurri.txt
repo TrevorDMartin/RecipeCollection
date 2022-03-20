@@ -1,0 +1,11 @@
+Chimichurri|Mix ingredients
+Canola Oil|0.5|Cup
+Red Wine Vinegar|0.25|Cup
+Limes|1|Each|Zested and Juiced
+Parsley|0.5|Cup|Chopped
+Cilantro|0.5|Cup|Chopped
+Salt|1|teaspoon
+Jalapeno|0.25|Each|Brunoise
+Red Pepper|0.5|Each|Brunoise
+Red Onion|0.25|Each|Brunoise
+Red Pepper Flakes|2|teaspoon

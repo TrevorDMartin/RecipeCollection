@@ -1,0 +1,10 @@
+Pimento Cheese|1.Combine all ingredients and mix thoroughtly.
+Cream Cheese|0.5|Each|Softened
+Cheddar|3|Quart
+Mayo|1|Quart
+Red Pepper|2|Each
+Sambal|0.25|Cup
+Worchestershire|0.25|Cup
+Hot Sauce|2|Tablespoon
+Pepper|2|Tablespoon
+Sugar|2|Tablespoon

@@ -1,0 +1,5 @@
+Buffalo|1.Roast jalapenos on grill, peel, and chop. 2.Combine hot sauce, cold butter, jalapenos and sambal in a pot. 3.Bring to simmer, regularly stir until butter is totally incorporated into sauce. 4. Blend together with emersion blender. 5.Cool properly, label, date, and initial
+Hot Sauce|2|Quart
+Butter|1.5|lbs
+Jalapeno|3|Each|Roast and Chop
+Sambal|1.5|Cup

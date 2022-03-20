@@ -1,0 +1,9 @@
+Pico|Mix all ingredients together and check seasonings.
+Tomato|6|Each
+Jalapeno|2|Each
+Red Onion|1|Each
+Cilantro|1|Bunch 
+Lime|2|Each
+Cumin|1|Tablespoon
+Salt|1|Tablespoon
+Pepper|1|Tablespoon

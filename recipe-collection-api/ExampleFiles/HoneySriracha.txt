@@ -1,0 +1,9 @@
+Honey Sriracha|1.Mix all ingredients, except corn starch and water, in a pot. Bring to a simmer. 2.Mix corn starch and water into a slurry. While whisking, slowly pour in slurry till sauce thickens. Simmer for 3 minutes
+Honey|1.5|Cup
+Siracha|0.5|Cup
+Sambal|0.5|Cup
+Soy Sauce|0.25|Cup
+Seasoned Rice Wine Vinegar|0.25|Cup
+Garlic|1|Each|Minced
+Corn Starch|3|Tablespoon
+Cold Water|0.5|Cup

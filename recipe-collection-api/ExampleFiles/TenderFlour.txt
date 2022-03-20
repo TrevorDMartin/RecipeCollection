@@ -1,0 +1,4 @@
+Tender Flour|1.Mix cornstarch and cajun. 2.Add in flour and mix thoroughly
+Flour|4|Quart
+Corn Starch|1|Box
+Cajun|1|Pint 

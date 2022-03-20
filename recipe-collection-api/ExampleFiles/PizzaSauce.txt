@@ -1,0 +1,11 @@
+Pizza Sauce|1.Sautee onion and garlic in butter till soft. 2.Add the rest of the ingredients, simmer for 10 minutes. 3.Blend with immersion blender.
+Plum Tomato|1|Can|Crushed
+Sugar|0.5|Cup
+Yellow Onion|1|Each|Diced
+Garlic|20|Each|Chop
+Fresh Basil|6|Sprig|Chop
+Fresh Parsley|6|Sprig|Chop
+Dry Oregano|1|teaspoon
+Dry Thyme|1|teaspoon
+Salt|2|Tablespoon
+Pepper|1|Tablespoon

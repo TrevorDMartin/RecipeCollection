@@ -1,0 +1,6 @@
+Coleslaw|1.Mix mayo, sugar, salt, and vinegar. 2. Add sparingly to cabbage and toss.
+Mayo|2|Cup
+Sugar|0.333|Cup
+Salt|1|Tablespoon
+Apple Cider Vinegar|0.25|Cup
+Shredded Cabbage|0.5|Bag

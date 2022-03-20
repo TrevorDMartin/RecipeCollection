@@ -1,0 +1,8 @@
+Goat Cheese Spread|1.Mix goat cheese and sour cream to blend goat cheese. 2.Mix in remaining ingredients till smooth.
+Goat Cheese|1|Cup
+Sour Cream|0.5|Cup
+Half & Half|0.25|Cup
+Honey|1|Tablespoon
+Salt|0.5|teaspoon
+White Pepper|0.5|teaspoon
+Granulated Garlic|0.25|teaspoon

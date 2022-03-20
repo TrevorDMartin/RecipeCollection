@@ -1,0 +1,7 @@
+Chicken Brine|1.Combine all ingredients except ice in pot. 2.Bring to a simmer to disolve salt and sugar. 3.Remove from heat and mix in ice.
+Water|3|Quart
+Salt|0.75|Cup
+Sugar|0.666|Cup
+Soy Sauce|0.75|Cup
+Bay Leave|6|Each
+Ice|2|Quart

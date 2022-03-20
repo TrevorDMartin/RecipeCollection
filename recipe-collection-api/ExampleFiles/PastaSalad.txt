@@ -1,0 +1,7 @@
+Pasta Salad|Mix ingredients together.
+Pasta|2|Quart
+Red Onion|2|Cup
+Tomato|2|Cup
+Cucumber|2|Cup
+Parmesan|1|Cup
+Oregano Vinaigrette|2|Cup
