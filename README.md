@@ -3,7 +3,7 @@
 
 This is a side-project I started working on in the middle of the database module.  
 I built and refactored it as we went through the module to help solidify the concepts I was learning.  
-I was also able to build functioning integration tests for this API  
+I also built integration tests for this application. 
 
 I created a directory of recipes in the ExampleFiles and built a method called createDatabase that runs a DDL file and then reads all the recipe files and populates the database.  
 
